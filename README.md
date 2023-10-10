@@ -9,5 +9,8 @@ This is Popular Flappy Bird Game which had been developed using pygame module
 4. Go to the FlappyBird Folder
 5. Open the Folder in visual Studio
 6. Play the Game using upper arrow button and make the high scores
-   
+   <p align="center">
+  <img src="FlappyBird.png" alt="Alt text">
+</p>
+
    
